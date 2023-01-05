@@ -32,4 +32,4 @@ for play_id in play_ids:
 player_tracking_data = modified_tracking_data
 # remove the quarterback from the data
 player_tracking_data = player_tracking_data[player_tracking_data['officialPosition'].isin(['DE', 'DT', 'NT', 'OLB'])]
-player_tracking_data.to_csv('plays_that_matter.csv', index=False)
+player_tracking_data.to_csv('filtered_data.csv', index=False)
