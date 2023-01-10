@@ -8,7 +8,7 @@ Jeffrey Slobodkin | [LinkedIn](https://www.linkedin.com/in/jeffrey-slobodkin/) |
 Aayush Garg | [LinkedIn](https://www.linkedin.com/in/aayushg1414/) | Undergraduate Freshman at Texas A&M University
 
 ### Code
-Our code is divided into a few difference folders:
+Our code is divided into a few different folders:
 
 Data Organizaation: Our process of organizing the data so that all the variables that are needed are created and the data includes only players we are looking for
 
