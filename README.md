@@ -10,7 +10,7 @@ Aayush Garg | [LinkedIn](https://www.linkedin.com/in/aayushg1414/) | Undergradua
 ### Code
 Our code is divided into a few different folders:
 
-Data Organizaation: Our process of organizing the data so that all the variables that are needed are created and the data includes only players we are looking for
+Data Organization: Our process of organizing the data so that all the variables that are needed are created and the data includes only players we are looking for
 
 Models: Our models for pass rush efficiency pressure
 
